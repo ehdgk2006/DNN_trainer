@@ -6,5 +6,5 @@
 3. train 버튼을 클릭하여 학습시작
 4. 학습과정 및 오차 출력
 
-## DOWNLOAD
-
+## DOWNLOAD exe file
+https://drive.google.com/file/d/1rN1lH-zuVMwnC5cXZMKhQsMqn1CABnjW/view?usp=sharing
